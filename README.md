@@ -1,0 +1,1 @@
+Rick and morty app with rick and morty api.
